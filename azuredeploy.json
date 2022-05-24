@@ -13,7 +13,7 @@
         },
         "siteName": {
             "type": "string",
-            "defaultValue": "SonarQubeAppService"
+            "defaultValue": "SonarQubeAppServicee"
         },
         "skuName": {
             "defaultValue": "B1",
@@ -34,7 +34,7 @@
             "type": "string"
         },
         "repoUrl": {
-            "defaultValue": "https://github.com/vanderby/SonarQube-AzureAppService",
+            "defaultValue": "https://github.com/vanderby/SonarQube-AzureAppServicee",
             "type": "string"
         },
         "branch": {
